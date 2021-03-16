@@ -13,7 +13,7 @@ In this session, you will build your first neural network from scratch!   You wi
 You have 3 options to follow along.  If you have a GPU on your laptop/desktop, you can load the libraries and dataset locally and run the notebook locally.   Otherwise, you can choose to run the notebook (free) in Google Colab.  Note, it is not required that you run the notebook to attend the session but it will help you understand the content.
 ### Option 1 - Setup your own laptop/PC with GPU for this workbook
 If you have a GPU and want to work on your own laptop/PC:
-1.  Download the dataset from leaky.ai/datasets/lemonade.csv
+1.  Download the dataset from https://leaky.ai/wp-content/uploads/2021/03/lemons.csv
 2.  Download Anaconda  (https://www.anaconda.com/distribution/)
 3.  Create a virtual environment using Anaconda on your local machine by following these commands:
 
