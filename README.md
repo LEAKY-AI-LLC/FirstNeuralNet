@@ -1,4 +1,4 @@
-#Your First Neural Network
+# Build Your First Neural Network
 Build your first neural network using PyTorch!
 ## Overview
 In this session, you will build your first neural network from scratch!   You will be analyzing a synthetic dataset from a fictional lemonade stand.  After training, your neural network will be able to predict the number of lemons likely sold on a given day!  Let's get started!
