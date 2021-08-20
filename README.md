@@ -36,7 +36,7 @@ jupyter notebook
 ### Option 2 - Follow along in a Google Colab workbook
 
 If you want to work in Google Colab, into Colab and pull the notebook file from GitHub:
-1.  Go to colab.research.google.com
+1.  Go to https://colab.research.google.com
 2.  Click **GitHub** and paste the address ** https://github.com/LeakyAI/FirstNeuralNet **
 3.  Click **Search Icon**
 4.  Click on ** FirstNeuralNetworkSolution.ipynb **, notebook should now open
