@@ -1,5 +1,5 @@
 ## Build Your First Neural Network with PyTorch
-Copyright 2022, LEAKY.AI LLC
+Copyright 2023, LEAKY.AI LLC
 
 <pre>
 Level: Beginner
